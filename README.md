@@ -1,4 +1,4 @@
-# Real-Mart-Sales-Analysis-Dashboard-Excel-Project
+# Real Mart Sales Analysis Dashboard 
 # Excel Sales Dashboard
 This project showcases an interactive Excel dashboard built to analyze sales performance.
 ## Key Insights
